@@ -237,26 +237,12 @@ function create_config( )
     "run",
     "supergroup",
     "welcome"
-    
     },
-    sudo_users = {207924051,191014064,128533076,185089353,257997956,182005083,0,0,0,tonumber(our_id)},--Sudo users
+    sudo_users = {207924051,128533076,185089353,0,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[llGHll v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/Al-Asaadi/llGHll
-
-Our team!
-Sadiq Al-Asaadi (@sa_iq)
-
-Special thanks to:
-IPEX TEAM
-
-Our channels:
-English: @ipexteam
-English: @llYAll
-]],
+    about_text = [[ ]],
+    
     help_text_realm = [[
 Realm Commands:
 
