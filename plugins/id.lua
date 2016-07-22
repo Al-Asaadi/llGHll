@@ -13,7 +13,7 @@ end
 
 return {
 patterns = {
-"^(معلوماتي)$"
+"^(ايدي)$"
 },
 run = run
 }
