@@ -14,7 +14,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 #3-Type :
 
-git clone https://github.com/Al-Asaadi/llGHll.git
+git clone https://github.com/Al-Asaadi/llGHll.git -b supergroups
 
 #4-Type :
 
